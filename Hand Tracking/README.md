@@ -2,4 +2,4 @@ This project is the demonstration on how to do hand tracking and extract differe
 
 ![image](https://user-images.githubusercontent.com/56957881/183752766-81b5edd1-6b36-432d-8151-513aba15e022.png)
 
-![image](https://user-images.githubusercontent.com/56957881/183752859-53e7e09c-a3bd-4f81-accd-5a1630c0b4bd.png)
+![image](https://user-images.githubusercontent.com/56957881/183753583-e473762f-770b-4a2d-b424-db2afd920007.png)
